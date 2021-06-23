@@ -8,34 +8,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [Unreleased]
 
 ### Added
-- Added social media identifier class to SocialButton
 
-## [3.148.2] - 2021-07-12
-### Fixed
-- `BuyButton` when item has no `skuId`.
-- `BuyButtonMessage` when `children` array is empty.
-
-## [3.148.1] - 2021-07-08
-### Added
-- Name property to SKU selector dropdown.
-
-## [3.148.0] - 2021-06-30
-
-### Added
-- `displayMode` prop useful for displaying the product name in plain text or embedded in the link to the product page.
-
-## [3.147.0] - 2021-06-29
-
-### Added
-- `disableBlurAndTouchEndHandler` prop to the `SearchBar` component.
-
-## [3.146.0] - 2021-06-28
-### Added
-- `unavailable` modifier to `valueWrapper` CSS handle.
-
-## [3.145.0] - 2021-06-28
-### Added
-- `showTitle` prop to `ProductDescription` component.
+- Add `disableUnavailableSelectOptions` prop for `SKUSelector` in order to disable unavailable items for `displayMode` select
 
 ## [3.144.0] - 2021-05-31
 
