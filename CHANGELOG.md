@@ -6,8 +6,18 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+### Added
+<<<<<<< HEAD
+=======
+- `disableUnavailableSelectOptions` prop to `SKUSelector` in order to disable unavailable items when `displayMode` is set to `select`.
+
+## [3.148.0] - 2021-06-30
 
 ### Added
+- `displayMode` prop useful for displaying the product name in plain text or embedded in the link to the product page.
+
+## [3.147.0] - 2021-06-29
+>>>>>>> ec01b109 (Update CHANGELOG.md)
 
 - Add `disableUnavailableSelectOptions` prop for `SKUSelector` in order to disable unavailable items for `displayMode` select
 
