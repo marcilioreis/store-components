@@ -9,8 +9,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [3.149.0] - 2021-07-15
 ### Added
-<<<<<<< HEAD
-=======
 - `disableUnavailableSelectOptions` prop to `SKUSelector` in order to disable unavailable items when `displayMode` is set to `select`.
 
 ## [3.148.0] - 2021-06-30
@@ -19,7 +17,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - `displayMode` prop useful for displaying the product name in plain text or embedded in the link to the product page.
 
 ## [3.147.0] - 2021-06-29
->>>>>>> ec01b109 (Update CHANGELOG.md)
 
 - Add `disableUnavailableSelectOptions` prop for `SKUSelector` in order to disable unavailable items for `displayMode` select
 
